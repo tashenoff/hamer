@@ -1,6 +1,7 @@
-# Gulp with TailwindCSS Starter Kit
+# сборка tailwind + nunjucks + sass
 
-Gulp with TailwindCSS Starter Kit - A repo which makes your development easier with predefined gulp tasks that help you to use [tailwindcss](https://github.com/tailwindcss/tailwindcss) with simple npm commands 
+
+[tailwindcss](https://github.com/tailwindcss/tailwindcss) with simple npm commands 
 
 ## Usage
 
